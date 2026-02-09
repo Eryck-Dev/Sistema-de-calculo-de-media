@@ -26,8 +26,8 @@ Projeto desenvolvido em **Java** que realiza o cálculo da média de três notas
 3. Digite as notas solicitadas no terminal
 
 ## 🎥 Demonstração
-
-![Demonstração do sistema](imagens/CauculadorMedia.gif)
+ 
+ imagens/CauculadorMedia.gif
 
 ---
 
