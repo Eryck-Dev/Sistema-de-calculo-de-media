@@ -29,7 +29,7 @@ Projeto desenvolvido em **Java** que realiza o cálculo da média de três notas
  
 ![Demonstração](src/imagens/CauculadorMedia.gif)
 
-
+ Não está dando pra ver porém no GIF acima esta rodando o código.
 ---
 
 Desenvolvido para prática de lógica de programação e conceitos básicos em Java.
