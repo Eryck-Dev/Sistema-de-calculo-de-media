@@ -1,2 +1,34 @@
-# Sistema-de-calculo-de-media
-Projeto em Java rodando no terminal que calcula a média de 3 notas digitadas pelo usuário e informa se ele foi Aprovado, ficou de Recuperação ou foi Reprovado.  O sistema valida as notas, utiliza estruturas de repetição e condicionais, e demonstra na prática conceitos básicos de lógica de programação e entrada de dados com Scanner.
+# 📚 Sistema de Cálculo de Média Escolar
+
+Projeto desenvolvido em **Java** que realiza o cálculo da média de três notas informadas pelo usuário via terminal.
+
+## 🚀 Funcionalidades
+
+* Entrada de três notas
+* Validação de valores (0 a 10)
+* Cálculo da média aritmética
+* Resultado automático:
+
+  * Aprovado
+  * Recuperação
+  * Reprovado
+
+## 🛠️ Tecnologias utilizadas
+
+* Java
+* Scanner (entrada de dados)
+* IntelliJ IDEA
+
+## ▶️ Como executar
+
+1. Abra o projeto em uma IDE (IntelliJ, Eclipse ou VS Code)
+2. Execute a classe `Main`
+3. Digite as notas solicitadas no terminal
+
+## 🎥 Demonstração
+
+![Demonstração do sistema](imagens/CalculadorMedia.gif)
+
+---
+
+Desenvolvido para prática de lógica de programação e conceitos básicos em Java.
